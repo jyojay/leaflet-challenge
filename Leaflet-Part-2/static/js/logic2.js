@@ -112,7 +112,7 @@ function markerColour(depth){
     // Defining a map object.
     let myMap = L.map("map", {
       center: [28, 2],
-      zoom: 3,
+      zoom: 2.8,
       layers: [street, earthquakes]
     });
   
