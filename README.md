@@ -35,7 +35,11 @@ Plotted a second dataset on the map to illustrate the relationship between tecto
 **Deployment Link:**
   - https://jyojay.github.io/leaflet-challenge/
     
-**Screen Shot of Dashboard generated:**
+**Screen Shots of map generated:**
+![image](https://github.com/jyojay/leaflet-challenge/assets/132628129/973e47b1-54bf-49a1-9e61-c5329985fd57)
+
+![image](https://github.com/jyojay/leaflet-challenge/assets/132628129/d5872dbf-19bf-4235-b984-0b96c67dd7de)
+
 
 
 
