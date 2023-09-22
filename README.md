@@ -33,9 +33,11 @@ Plotted a second dataset on the map to illustrate the relationship between tecto
 - `https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_boundaries.json`
     
 **Deployment Link:**
-  - https://jyojay.github.io/
+  - https://jyojay.github.io/leaflet-challenge/
     
 **Screen Shot of Dashboard generated:**
+
+
 
 
 
